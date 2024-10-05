@@ -1,1 +1,1 @@
-# Lungs-Segmentation
+# Lung-Segmentation
